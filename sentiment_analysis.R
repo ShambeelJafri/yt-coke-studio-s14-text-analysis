@@ -2,11 +2,8 @@
 #meaning urdu text, emojis, numbers are still in there but they won't get picked up anyways
 
 
-video_id <- "zQDAi8tI-cU"
 
-ky_raw_comments <- get_all_comments(video_id)
-
-ky_tokens <- ky_raw_comments %>%
+ky_tokens <- kana_yaari_raw_comments %>%
   select(textOriginal) %>%
   unnest_tokens(word, textOriginal)
 
