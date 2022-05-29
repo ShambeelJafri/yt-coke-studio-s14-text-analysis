@@ -20,15 +20,29 @@ videos <- c("7D4vNcK6D38", #tu jhoom
             "HrFlFMK1mKI", #sajan das na
             "BUm_hFMlsgg", #mehram
             "diGJy8eFbWw", #neray neray vas
-            "5Eqb_-j3FDA" #pasoori
-)
+            "5Eqb_-j3FDA", #pasoori
+            "fwJdfyDYhHs", #ye dunya
+            "dB0AFSUl2Vk", #peechay hutt
+            "O3pUsXxCfEk", #muaziz saarif,
+            "JTJ6q-cGs-o", #beparwah
+            "nNZvaMoiATE", #thagyan
+            "GR5U85eo4yQ", #go
+            "S5FyS7tQuUw" #phir_milenge
+            )
 
 video_names <- c("tu_jhoom",
                  "kana_yaari",
                  "sajan_das_na",
                  "mehram",
                  "neray_neray_vas",
-                 "pasoori" )
+                 "pasoori",
+                 "ye_dunya",
+                 "peechay_hutt",
+                 "muaziz_saarif",
+                 "beparwah",
+                 "thagyan",
+                 "go",
+                 "phir_milenge")
 
 #fetch stuff
 
